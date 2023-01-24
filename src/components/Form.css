@@ -1,0 +1,10 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    margin-top: 20px;
+}
+#outlined-basic {
+    border-color: white;
+}

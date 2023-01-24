@@ -1,4 +1,4 @@
-
+import './Result.css';
 
 const Result = props => {
 

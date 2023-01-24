@@ -1,7 +1,10 @@
 import React from 'react';
 import Form from "./Form";
 import Result from "./Result";
+import './Weather.css';
+
 const config = require('../config.json');
+
 
 class Weather extends React.Component {
  state = {
